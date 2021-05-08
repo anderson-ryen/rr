@@ -6,7 +6,7 @@ Created on Wed Jan 13 17:20:54 2021
 
 import os
 #预览地址
-view_path = "https://www.opbe.top/prl/lxr/rr.php"
+view_path = "https://www.prlrr.com/prl/lxr/rr.php"
 #文件的绝对路径
 file_path_1 = "E:\\GitHub Desktop\\GitHub\\rr\\img\\"
 #CDN前缀
